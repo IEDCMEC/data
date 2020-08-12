@@ -1,4 +1,26 @@
 [
+   
+   {
+      "name":"A Case study on Steve Jobs: A Entrepreneurial leader ",
+      "link":"http://www.knowledgeworkz.com/samatvam/newsletter/Steve%20Jobs%20%C2%AD%20The%20Entrepreneurial%20Leader%20V1.pdf",
+      "url":"images/steve.jpg"
+   },
+   {
+      "name":"Case Study on Elon Musk",
+      "link":"http://regen360.net/case-studies/",
+      "url":"images/elon.jpg"
+   },
+   {
+      "name":"Sachin Bansal",
+      "link":"https://www.thehindubusinessline.com/info-tech/Sachin-Bansal-A-bold-risk-taker/article20781122.ece",
+      "url":"images/sachin.jpg"
+   }
+    {
+      "name":"10 People Who Became Wildly Successful After Facing Rejection",
+      "link":"https://www.entrepreneurmag.co.za/advice/success-stories/case-studies/10-people-who-became-wildly-successful-after-facing-rejection/",
+      "url":"images/einstein.jpg"
+   },
+
    {
       "name":"Four Mini Case Studies in  Entrepreneurship(Bonzo, Daniel Platt,Hidden Nation, Narrow Car Company)",
       "link":"https://www.heacademy.ac.uk/system/files/4-mini-case-studies.pdf",
@@ -23,11 +45,6 @@
       "name":"Digital Divide Data",
       "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-081%20Biocon%20India%20Group%20Case.pdf",
       "url":"images/ddd.jpg"
-   },
-   {
-      "name":"E-commerce at Yunnan Lucky Air",
-      "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-076%20Ecommerce%20at%20Yunnan%20Lucky%20Air%20-%20Lehrich.pdf",
-      "url":"images/yunnan.jpg"
    },
    {
       "name":"Biocon India Group",
@@ -59,23 +76,14 @@
       "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf",
       "url":"images/china.jpg"
    },
-   {
-      "name":"Pakistan: A Story of Technology, Entrepreneurs and Global Networks",
-      "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-082%20Pakistan.pdf",
-      "url":"images/pakistan.jpg"
-   },
+  
    {
       "name":"Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up",
       "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-106%20Mercy%20Corps%20and%20KeBal%20Lehrich.pdf",
       "url":"images/mercy.jpg"
    },
    {
-      "name":"Kibernum",
-      "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-073%20Kibernum.Lehrich.pdf",
-      "url":"images/kibernum.jpg"
-   },
-   {
-      "name":"How to learn for failure",
+      "name":"How to learn from failure",
       "link":"https://timreview.ca/article/447",
       "url":"images/failure.jpg"
    },
@@ -83,11 +91,6 @@
       "name":"Starbucks Success",
       "link":"https://www.entrepreneurmag.co.za/advice/success-stories/case-studies/starbucks-coffee-is-all-about-culture-for-a-reason/",
       "url":"images/starbucks.jpg"
-   },
-   {
-      "name":"10 People Who Became Wildly Successful After Facing Rejection",
-      "link":"https://www.entrepreneurmag.co.za/advice/success-stories/case-studies/10-people-who-became-wildly-successful-after-facing-rejection/",
-      "url":"images/einstein.jpg"
    },
    {
       "name":"How Merchant Capital And Retroviral Were Built To Sell",
@@ -99,24 +102,4 @@
       "link":"https://www.entrepreneurmag.co.za/advice/success-stories/case-studies/how-autotrader-anticipated-change/",
       "url":"images/autotrade.jpg"
    },
-   {
-      "name":"How a guitarist convert 12,000$ to 1.4 Billion dollars ",
-      "link":"https://www.entrepreneur.com/article/295548",
-      "url":"images/guitar.jpg"
-   },
-   {
-      "name":"A Case study on Steve Jobs: A Entrepreneurial leader ",
-      "link":"http://www.knowledgeworkz.com/samatvam/newsletter/Steve%20Jobs%20%C2%AD%20The%20Entrepreneurial%20Leader%20V1.pdf",
-      "url":"images/steve.jpg"
-   },
-   {
-      "name":"Case Study on Elon Musk",
-      "link":"http://regen360.net/case-studies/",
-      "url":"images/elon.jpg"
-   },
-   {
-      "name":"Sachin Bansal",
-      "link":"https://www.thehindubusinessline.com/info-tech/Sachin-Bansal-A-bold-risk-taker/article20781122.ece",
-      "url":"images/sachin.jpg"
-   }
-]
+   ]
