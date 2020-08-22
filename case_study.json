@@ -1,5 +1,4 @@
 [
-   
    {
       "name":"A Case study on Steve Jobs: A Entrepreneurial leader ",
       "link":"http://www.knowledgeworkz.com/samatvam/newsletter/Steve%20Jobs%20%C2%AD%20The%20Entrepreneurial%20Leader%20V1.pdf",
@@ -14,13 +13,12 @@
       "name":"Sachin Bansal",
       "link":"https://www.thehindubusinessline.com/info-tech/Sachin-Bansal-A-bold-risk-taker/article20781122.ece",
       "url":"images/sachin.jpg"
-   }
-    {
+   },
+   {
       "name":"10 People Who Became Wildly Successful After Facing Rejection",
       "link":"https://www.entrepreneurmag.co.za/advice/success-stories/case-studies/10-people-who-became-wildly-successful-after-facing-rejection/",
       "url":"images/einstein.jpg"
    },
-
    {
       "name":"Four Mini Case Studies in  Entrepreneurship(Bonzo, Daniel Platt,Hidden Nation, Narrow Car Company)",
       "link":"https://www.heacademy.ac.uk/system/files/4-mini-case-studies.pdf",
@@ -76,7 +74,6 @@
       "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf",
       "url":"images/china.jpg"
    },
-  
    {
       "name":"Mercy Corps and KeBal Healthy Food Carts: Sustaining and Scaling Up",
       "link":"https://mitsloan.mit.edu/LearningEdge/CaseDocs/10-106%20Mercy%20Corps%20and%20KeBal%20Lehrich.pdf",
@@ -102,4 +99,4 @@
       "link":"https://www.entrepreneurmag.co.za/advice/success-stories/case-studies/how-autotrader-anticipated-change/",
       "url":"images/autotrade.jpg"
    },
-   ]
+]
